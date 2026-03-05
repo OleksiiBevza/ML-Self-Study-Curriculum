@@ -36,6 +36,7 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
   - **[Prerequisites](#prerequisites)**
     - Preparation to computer science
     - Introduction to computer science with Python
+    - Introduction to SQL
   - **[Undergraduate](#undergraduate)**
     - Data structures
     - Introduction to algorithms
@@ -108,7 +109,7 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 |:-----------|:-------------------------------------|
 | **0. Preparation to computer science** | The course consists of four books containing exercises and corresponding code solutions. Learners are expected to familiarize themselves with all the material. The recommended environment for running the code is [Visual Studio Code](https://code.visualstudio.com/download) |
 | **1. Introduction to computer science with Python** | The course consists of two books containing exercises and corresponding code solutions. Learners are expected to familiarize themselves with all the material and accompanying videos with practice problems. &nbsp;&nbsp; [Set 1](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/download/)  |
-
+| **2. Introduction to SQL** | The course consists of two books containing exercises and corresponding code and explains basic SQL syntax |
 ### Undergraduate
 | **Topic** | **Description** |
 |:-----------|:-------------------------------------|
