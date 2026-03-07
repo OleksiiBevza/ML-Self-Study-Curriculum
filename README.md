@@ -147,7 +147,7 @@ The idea of this repository is to create a rigorous undergraduate and postgradua
 | **Topic** | **Description** | **Materials** |
 |:-----------|:-------------------------------------|:-------------------------------------|
 | **Online / Continual Learning**| Offline models are typically trained once and remain static, assuming a stationary distribution. This makes it difficult for them to adapt to evolving patterns. Online and continual learning address this by allowing models to update incrementally as new data arrives. | [Set1](https://github.com/xialeiliu/Awesome-Incremental-Learning), [Set2](https://course.continualai.org/background/details), [Set3](https://www.mit.edu/~rakhlin/6.883/#datasets), [Set4](https://github.com/online-ml/river?tab=readme-ov-file) |
-| **Real-time anomaly detection**| Focuses on identifying outliers or significant deviations in streaming data with low latency. | *Coming soon* |
+| **Real-time anomaly detection**| Material focuses on identifying outliers in real time. | [Set 1](https://github.com/lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms?tab=readme-ov-file) |
 ### Physics Data Processing
 | **Topic** | **Description** | **Materials** |
 |:-----------|:-------------------------------------|:-------------------------------------|
