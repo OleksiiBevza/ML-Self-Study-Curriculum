@@ -1,12 +1,6 @@
-A rigorous self-study roadmap for mathematics, computer science, statistics, and machine learning: from prerequisites to postgraduate topics, with books, lectures, exercises, and code. The repository includes two main folders: Mathematics and Computer Science, each divided into four sections. Some of the material is presented as a list of scientific articles instead of books. Books, solutions to the exercises, and code are available in the relevant folders. Links to the video lectures can be found below, under the brief description of each subject.
+A rigorous self-study roadmap for mathematics, computer science, statistics, and machine learning: from prerequisites to postgraduate topics. The repository includes three main folders: Mathematics, Computer Science, and Specialized topics. Some of the material is presented as a list of relevant scientific articles instead of books. Books, solutions to the exercises, and code are available in the relevant folders. Links to the video lectures can be found below, under the brief description of each subject.
 
-(i) Prerequisites (basic theoretical knowledge needed to begin the essentials of data science)
 
-(ii) Undergraduate curriculum (essential theoretical knowledge in data science that prepares students for advanced graduate topics)
-
-(iii) Postgraduate curriculum (offers advanced topics in data science)
-
-(iv) Specialized topics (coming soon...)
 
 
 
@@ -60,8 +54,8 @@ A rigorous self-study roadmap for mathematics, computer science, statistics, and
   - **[Time-series analysis](#time-series-analysis)**
     - Online / Continual Learning
     - Real-time anomal detection
-
-
+  - **[Machine Learning in physics](#machine-learning-in-physics)**
+  - **[Missing data imputation](#missing-data-imputation)**
 
 ---
 ---
@@ -147,9 +141,12 @@ A rigorous self-study roadmap for mathematics, computer science, statistics, and
 | **Topic** | **Description** | **Materials** |
 |:-----------|:-------------------------------------|:-------------------------------------|
 | **Online / Continual Learning**| Offline models are typically trained once and remain static, assuming a stationary distribution. This makes it difficult for them to adapt to evolving patterns. Online and continual learning address this by allowing models to update incrementally as new data arrives. | [Set1](https://github.com/xialeiliu/Awesome-Incremental-Learning), [Set2](https://course.continualai.org/background/details), [Set3](https://www.mit.edu/~rakhlin/6.883/#datasets), [Set4](https://github.com/online-ml/river?tab=readme-ov-file) |
-| **Real-time anomaly detection**| Material focuses on identifying outliers in real time. | [Set 1](https://github.com/lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms?tab=readme-ov-file) |
-### Physics Data Processing
+| **Real-time anomaly detection**| A list of scientific articles focuses on identifying outliers in real time. | [Set 1](https://github.com/lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms?tab=readme-ov-file) |
+### Machime Learning in physics
 | **Topic** | **Description** | **Materials** |
 |:-----------|:-------------------------------------|:-------------------------------------|
-| Data Analysis| Workshops and schools organized by the Astrophysics Centre for Multi-messenger studies in Europe related to Gamma-rays, Gravitational waves, Cosmic rays, X-rays, Radio (some of them are offered online) | [Set1](https://www.acme-astro.eu/training-events/events/), [Set2](https://www.acme-astro.eu/training-events/training-material/) |
+| Physics Data Processing| Workshops and schools organized by the Astrophysics Centre for Multi-messenger studies in Europe related to Gamma-rays, Gravitational waves, Cosmic rays, X-rays, Radio (some of them are offered online) | [Set1](https://www.acme-astro.eu/training-events/events/), [Set2](https://www.acme-astro.eu/training-events/training-material/) |
+### Missing data imputations
+|:-----------|:-------------------------------------|:-------------------------------------|
+| Missing data imputations | ********** | ******* |
 
