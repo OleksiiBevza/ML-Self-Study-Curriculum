@@ -60,7 +60,7 @@ A rigorous self-study roadmap for mathematics, computer science, statistics, and
 ---
 ---
 ---
-# Mathematics
+# Mathematics (look in folder for books, exercises, solutions)
 
 ### Prerequisites math
 <a id="curriculum-table"></a>
@@ -95,7 +95,7 @@ A rigorous self-study roadmap for mathematics, computer science, statistics, and
 ---
 ---
 ---
-# Computer Science
+# Computer Science (look in folder for books, exercises, solutions)
 
 ### Prerequisites CS
 
@@ -138,7 +138,7 @@ A rigorous self-study roadmap for mathematics, computer science, statistics, and
 ---
 ---
 ---
-# Specialized topics
+# Specialized topics (look in folder for books, exercises, solutions)
 
 ### Time-series
 | **Topic** | **Description** | **Materials** |
@@ -151,5 +151,5 @@ A rigorous self-study roadmap for mathematics, computer science, statistics, and
 | Physics Data Processing| Workshops and schools organized by the Astrophysics Centre for Multi-messenger studies in Europe related to Gamma-rays, Gravitational waves, Cosmic rays, X-rays, Radio (some of them are offered online) | [Set1](https://www.acme-astro.eu/training-events/events/), [Set2](https://www.acme-astro.eu/training-events/training-material/) |
 ### Missing data imputations
 |:-----------|:-------------------------------------|:-------------------------------------|
-| Missing data imputations | ********** | ******* |
+| Multivariate Imputation by Chained Equations | This subject is very relevant for biostatistics, epidemiology and survey analysis. Presented solution incorporates the additional uncertainty caused by the missing values into the quantitative analysis. | [Set1](https://stefvanbuuren.name/fimd/), [Set2](https://www.uu.nl/en/organisation/methodology-and-statistics/missing-data) |
 
