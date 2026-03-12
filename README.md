@@ -1,5 +1,7 @@
 A rigorous self-study roadmap for mathematics, computer science, statistics, and machine learning: from prerequisites to postgraduate topics. The repository includes three main folders: Mathematics, Computer Science, and Specialized topics. Some of the material is presented as a list of relevant scientific articles instead of books. Books, solutions to the exercises, and code are available in the relevant folders. Links to the video lectures can be found below, under the brief description of each subject.
 
+If you think something important is missing, please refer to [MIT syllabus](https://catalog.mit.edu/subjects/6/) or get in touch so that I can try to add relevant materials.
+
 
 
 
